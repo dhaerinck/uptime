@@ -1,0 +1,15 @@
+be/osmosis/web/service/Users.java
+ be.osmosis.web.service.Users
+be/osmosis/web/JakartaEE8Application.java
+ be.osmosis.web.JakartaEE8Application
+be/osmosis/web/domain/User.java
+ be.osmosis.web.domain.User
+ be.osmosis.web.domain.User$1
+be/osmosis/web/Ping.java
+ be.osmosis.web.Ping
+be/osmosis/web/domain/Project.java
+ be.osmosis.web.domain.Project
+ be.osmosis.web.domain.Project$1
+be/osmosis/web/domain/Registration.java
+ be.osmosis.web.domain.Registration
+ be.osmosis.web.domain.Registration$1
